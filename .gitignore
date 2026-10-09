@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.pytest_cache/
+
+# Local crawler debugging files
+*_page.html
+*_detail.html
+indeed_browser.html
+indeed_uk_test.html
+indeed_search.html

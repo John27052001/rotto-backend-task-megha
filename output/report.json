@@ -1,0 +1,19 @@
+{
+  "started_at": "2026-10-09T23:22:49.869368+00:00",
+  "finished_at": "2026-10-09T23:23:25.852836+00:00",
+  "requests_total": 15,
+  "requests_blocked": 1,
+  "requests_by_status": {
+    "403": 1,
+    "200": 14
+  },
+  "jobs_by_source": {
+    "linkedin": 25,
+    "reed": 45
+  },
+  "duplicates_linked": 0,
+  "jobs_new": 1,
+  "jobs_removed": 0,
+  "jobs_changed": 0,
+  "estimated_cost_usd": 0.0
+}

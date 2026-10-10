@@ -192,3 +192,5 @@ output/report.json
 - **Reed:** live discovery, detail parsing, persistence, incremental refresh, and lifecycle handling implemented.
 - **LinkedIn:** live discovery, detail parsing, persistence, incremental refresh, and lifecycle handling implemented.
 - **Indeed:** public requests currently receive Indeed security/403 responses through the supplied proxy; failures are retried in a bounded manner, recorded as blocked, and do not affect existing lifecycle data or prevent other sources from completing.
+
+Author : Megha John Babu
